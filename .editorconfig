@@ -1,0 +1,23 @@
+root = true
+
+# Default source editor settings
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Stylus settings
+[*.styl]
+indent_size = 2
+indent_style = space
+
+# Pug settings
+[*.pug]
+indent_size = 2
+indent_style = space
+
+# JavaScript settings
+[*.{js,json}]
+indent_size = 2
+indent_style = space

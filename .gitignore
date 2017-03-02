@@ -1,0 +1,16 @@
+# Node.js modules
+node_modules
+
+# VS Code settings folder
+.vscode/*
+.vscode
+
+# Log files
+npm-debug.log
+npm-debug.log.*
+debug.log
+*.log
+
+# Distribution files/folder
+dist/*
+dist
