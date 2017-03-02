@@ -17,6 +17,14 @@
     "express": "^4.15.0",
     "highlight.js": "^9.9.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLuizC/benchmark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VitorLuizC/benchmark/issues"
+  },
+  "homepage": "https://github.com/VitorLuizC/benchmark#README",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
