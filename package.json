@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack -d --display-error-details --env development",
+    "watch": "webpack -d -w --env development",
+    "deploy": "webpack -p --env production",
     "start": "node ./index.js"
   },
   "keywords": [
